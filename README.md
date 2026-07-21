@@ -1,4 +1,4 @@
-# purescript-aff-promise
+# gopurs-aff-promise
 
 Simple library for interop between Aff and JavaScript promises.
 
