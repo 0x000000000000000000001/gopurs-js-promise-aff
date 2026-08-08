@@ -5,3 +5,5 @@
 /src/.webpack.js
 .spago
 .psc-ide-port
+.DS_Store
+output
