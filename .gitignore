@@ -1,9 +1,11 @@
 /bower_components/
 /node_modules/
-/output/
+output/
+output.bak/
 /.psci*
 /src/.webpack.js
 .spago
 .psc-ide-port
 .DS_Store
 output
+output.bak
